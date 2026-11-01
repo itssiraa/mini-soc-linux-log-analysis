@@ -1,0 +1,5 @@
+Nombre d'ouverture de sessions root : 20
+Nombre d'ouverture de sessions root ouvertes par sudo : 11
+Nombre d'ouverture de sessions root ouvertes par pkexec : 6
+Nombre d'ouverture de sessions root ouvertes par cron : 3
+OK

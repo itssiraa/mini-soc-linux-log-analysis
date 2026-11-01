@@ -1,0 +1,9 @@
+=== ANALYSE SOC ===
+Nombre d'ouverture de sessions root : 20
+Nombre d'ouverture de sessions root ouvertes par sudo : 11
+Nombre d'ouverture de sessions root ouvertes par pkexec : 6
+Nombre d'ouverture de sessions root ouvertes par cron : 3
+OK : nombre de sessions root normal
+OK : nombre de sessions root avec sudo normal
+=== CONCLUSION ===
+Aucune anomalie détectée

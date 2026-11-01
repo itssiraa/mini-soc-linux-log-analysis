@@ -1,0 +1,15 @@
+# Journaux personnels
+logs/*
+
+# Bases de données locales
+database/*
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers de configuration sensibles
+.env
+
+*.log
+
